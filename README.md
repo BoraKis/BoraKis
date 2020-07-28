@@ -1,5 +1,5 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/BoraKis/BoraKis.md)
-![watch this repo](https://github.com/BoraKis/BoraKis.md/subscription)
+![Github Watch](https://img.shields.io/github/watchers/:BoraKis/:BoraKis.md?label-Watch)
 ![GitHub stars](https://img.shields.io/github/stars/BoraKis/BoraKis.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/izzetborakis?style=social)
 
