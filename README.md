@@ -1,7 +1,7 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/BoraKis/BoraKis.md)
-![GitHub watchers](https://img.shields.io/github/watchers/BoraKis/BoraKis.md?label=Watch&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/BoraKis/BoraKis.md?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/BoraKis/BoraKis.md?label=Watch&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/BoraKis/BoraKis.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/izzetborakis?style=plastic)
+![Twitter Follow](https://img.shields.io/twitter/follow/izzetborakis?style=social)
 
 ### Hi there. I'm Bora :sunglasses: :computer:
 ![bora](https://user-images.githubusercontent.com/47301584/88222120-29eba780-cc6e-11ea-839e-139fba2565c4.jpg)
