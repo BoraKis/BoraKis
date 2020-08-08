@@ -8,10 +8,12 @@
 I was born on October 4, 1998 in Ankara. After completing my primary and high school education here, I was entitled to enter the Department of Biomedical Engineering at Düzce University in 2016 and still continue my education life. I will complete my undergraduate period in June 2020. I am particularly interested in machine learning, deep learning, artificial intelligence, digital signal processing and image processing.
 
 ### Connect with me:
+
 [<img align="left" alt="borakis.github.io" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="izzetborakiş | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="izzetborakis | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<br />
 <!--
 **BoraKis/BoraKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
