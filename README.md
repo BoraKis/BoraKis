@@ -16,8 +16,8 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 <br />
 
 [website]: https://borakis.github.io
-[linkedin]: https://linkedin.com/in/izzetborakis
-[twitter]: https://twitter.com/izzet-bora-kiş-1008999b
+[linkedin]: https://linkedin.com/in/izzet-bora-kiş-1008999b
+[twitter]: https://twitter.com/izzetborakis
 
 <!--
 **BoraKis/BoraKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
