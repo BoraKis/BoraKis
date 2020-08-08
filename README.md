@@ -13,9 +13,10 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 [<img align="left" alt="izzet-bora-kiş-1008999b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="izzetborakis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-*************
 
 <br />
+
+*************
 
 [website]: https://borakis.github.io
 [linkedin]: https://linkedin.com/in/izzet-bora-kiş-1008999b
