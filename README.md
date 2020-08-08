@@ -7,6 +7,9 @@
 ![bora](https://user-images.githubusercontent.com/47301584/88222120-29eba780-cc6e-11ea-839e-139fba2565c4.jpg)
 I was born on October 4, 1998 in Ankara. After completing my primary and high school education here, I was entitled to enter the Department of Biomedical Engineering at Düzce University in 2016 and still continue my education life. I will complete my undergraduate period in June 2020. I am particularly interested in machine learning, deep learning, artificial intelligence, digital signal processing and image processing.
 
+### Connect with me:
+ <a href="https://twitter.com/izzetborakis" alt="Twitter"><img src="https://raw.githubusercontent.com/BoraKis/BoraKis/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+
 <!--
 **BoraKis/BoraKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
