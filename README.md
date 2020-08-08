@@ -10,14 +10,14 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 ### Connect with me:
 
 [<img align="left" alt="borakis.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="izzet-bora-kiş | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="izzet-bora-kiş-1008999b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="izzetborakis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
 [website]: https://borakis.github.io
 [linkedin]: https://linkedin.com/in/izzetborakis
-[twitter]: https://twitter.com/izzet-bora-kiş
+[twitter]: https://twitter.com/izzet-bora-kiş-1008999b
 
 <!--
 **BoraKis/BoraKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
