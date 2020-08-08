@@ -19,6 +19,14 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 [linkedin]: https://linkedin.com/in/izzet-bora-kiş-1008999b
 [twitter]: https://twitter.com/izzetborakis
 
+<p align="center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=BoraKis&&show_icons=true&theme=radical"/>
+  </a>
+</p>
+
+*************
+
 <!--
 **BoraKis/BoraKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
