@@ -15,7 +15,6 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 [<img align="left" alt="izzet-bora-kiş-1008999b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="izzetborakis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="izzetborakis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="theboraa | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 <br />
 
 *************
@@ -24,7 +23,7 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 [linkedin]: https://linkedin.com/in/izzet-bora-kiş-1008999b
 [twitter]: https://twitter.com/izzetborakis
 [instagram]: https://instagram.com/izzetborakis
-[spotify]: https://open.spotify.com/user/theboraa?si=3xQsv3K8QrmQQdsCGjnSNA
+
 
 <p align="left" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
