@@ -14,7 +14,7 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 [<img align="left" alt="borakis.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="izzet-bora-kiş-1008999b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="izzetborakis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img align="left" alt="izzetborakis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -23,8 +23,9 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 [website]: https://borakis.github.io
 [linkedin]: https://linkedin.com/in/izzet-bora-kiş-1008999b
 [twitter]: https://twitter.com/izzetborakis
+[instagram]: https://instagram.com/izzetborakis
 
-<p align="center" >
+<p align="left" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=BoraKis&&show_icons=true&theme=radical"/>
   </a>
