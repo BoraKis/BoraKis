@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/BoraKis/BoraKis?)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BoraKis" alt="BoraKiss" /> </p>
 ![GitHub watchers](https://img.shields.io/github/watchers/BoraKis/BoraKis?label=Watch&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/BoraKis/BoraKis?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/izzetborakis?style=social)
