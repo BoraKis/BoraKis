@@ -1,5 +1,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/BoraKis?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/BoraKis/BoraKis?label=Watch&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/BoraKis/BoraKis?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/izzetborakis?style=social)
 
