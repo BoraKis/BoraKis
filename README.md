@@ -29,8 +29,9 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
     <img  src="https://github-readme-stats.vercel.app/api?username=BoraKis&&show_icons=true&theme=radical"/>
   </a>
 </p>
+<p align="right" >
 <img height="200px" alt="BoraKis's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoraKis&hide_border=true&hide=javascript,html" />
-
+</p>
 <!--
 **BoraKis/BoraKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
