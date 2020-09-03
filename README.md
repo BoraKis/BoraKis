@@ -1,6 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BoraKis" alt="BoraKis" /> </p>
 ![GitHub followers](https://img.shields.io/github/followers/BoraKis?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/BoraKis/BoraKis?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/izzetborakis?style=social)
+
 
 ### Hi there. I'm Bora :sunglasses: :computer:
 ![bora](https://user-images.githubusercontent.com/47301584/88222120-29eba780-cc6e-11ea-839e-139fba2565c4.jpg)
