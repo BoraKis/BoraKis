@@ -19,7 +19,7 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 [<img alt="borakis.github.io"  src="https://github.com/BoraKis/BoraKis/raw/master/website.svg" />][website]
 [<img alt="izzetborakis | Twitter"  src="https://github.com/BoraKis/BoraKis/raw/master/twitter.svg" />][twitter]
 [<img alt="izzetborakis | LinkedIn"  src="https://github.com/BoraKis/BoraKis/raw/master/linkedin.svg" />][linkedin]
-[<img alt="mguludag | Medium"  src="https://github.com/mguludag/mguludag/raw/master/medium.svg" />][medium]
+[<img alt="izzetborakis | Instagram"  src="https://github.com/BoraKis/BoraKis/raw/master/instagram.svg" />][instagram]
 
 *************
 
