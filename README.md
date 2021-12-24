@@ -16,22 +16,19 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 
 ### Connect with me:
 
-[<img align="left" alt="borakis.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="izzet-bora-kiş-1008999b | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="izzetborakis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.instagram.com/izzetborakis/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
-
-
+[<img alt="borakis.github.io"  src="https://github.com/BoraKis/BoraKis/raw/master/website.svg" />][website]
+[<img alt="izzetborakis | Twitter"  src="https://github.com/BoraKis/BoraKis/raw/master/twitter.svg" />][twitter]
+[<img alt="izzetborakis | LinkedIn"  src="https://github.com/BoraKis/BoraKis/raw/master/linkedin.svg" />][linkedin]
+[<img alt="mguludag | Medium"  src="https://github.com/mguludag/mguludag/raw/master/medium.svg" />][medium]
 
 *************
 
 
 
 [website]: https://borakis.github.io
-[linkedin]: https://linkedin.com/in/izzet-bora-kiş-1008999b
 [twitter]: https://twitter.com/izzetborakis
-[instagram]: https://instagram.com/izzetborakis
+[linkedin]: https://linkedin.com/in/izzetborakis
+[instagram]: https://www.instagram.com/izzetborakis/
 
 
 
