@@ -36,14 +36,6 @@ I was born on October 4, 1998 in Ankara. After completing my primary and high sc
 
 
 
-<p align="left" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=BoraKis&&show_icons=true&theme=radical"/>
-    <img height="200px" alt="BoraKis's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoraKis&hide_border=true&hide=javascript,html" />
-  </a>
-</p>
-
-
 <!--
 **BoraKis/BoraKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
